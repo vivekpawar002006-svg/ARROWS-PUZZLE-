@@ -1,0 +1,6 @@
+{
+  "name": "Arrows",
+  "description": "Minimalist arrow puzzle game where you launch polyline arrows off a dot grid. Clear paths, avoid collisions, and solve interlocking mazes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
